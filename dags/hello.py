@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 default_args = {
     "owner": "benites",
-    "start_date": datetime(2024, 1, 25),
+    "start_date": datetime(2024, 11, 25),
     "catchup": False,
 }
 
